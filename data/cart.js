@@ -1,1 +1,1 @@
-const cart=[];
+export const cart=[];//export cart variable to access it outside the file//
